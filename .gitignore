@@ -1,0 +1,7 @@
+.classpath
+.project
+.springBeans
+.settings/
+src/test/
+target/classes/log4j.xml
+target/
